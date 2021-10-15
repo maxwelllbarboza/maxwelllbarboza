@@ -15,10 +15,10 @@ Me chamo <b> Maxwell Ribeiro Barboza</b>.
   <img align="right" src="https://e7.pngegg.com/pngimages/874/257/png-clipart-whatsapp-computer-icons-computer-software-whatsapp-text-logo-thumbnail.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Tenho 43 anos, fui Gerente Operacional Bancário durante 20 anos
-e atualmente moro no Rio de Janeiro/RJ.<br />
+Tenho 43 anos, fui Gerente Operacional Bancário durante 20 anos.
+  <br/>
 Sou estudante de tecnologia desde 2020, atualmente estou me capacitando pela @Cubos.academy<br/>
-para me tornar um <b>Desenvolvedor Full-Stack </b>.
+para me tornar um <b>Desenvolvedor Full-Stack </b> e cursando o 2º periodo de Tecnologia em Sistema de Computação na UFF.
 </p>
 <a href="https://www.linkedin.com/in/maxwell-ribeiro-barboza-2677351a5/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
@@ -33,7 +33,7 @@ para me tornar um <b>Desenvolvedor Full-Stack </b>.
 **Meus interesses pessoais:**
 
 
-- 👩‍💻 Estou estudando Front-end e Back-end com **PostgreSQL**, **HTML**, **CSS**, **React**, **Javascript** utilizando o **Node.js**;   
+- 👩‍💻 Estou estudando Front-end e Back-end com **PostgreSQL**, **HTML**, **CSS**, **React**, **Javascript** utilizando o **Node.js**;-       
 - 📫 Se quiser pode enviar um email para maxwellbarboza@hotmail.com.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/1JUpY2qUKWvgs53Y2XEd256ZiOuhXywxd/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 <br/>
