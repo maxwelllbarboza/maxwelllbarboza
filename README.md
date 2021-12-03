@@ -15,7 +15,11 @@ Me chamo <b> Maxwell Ribeiro Barboza</b>.
   <img align="right" src="https://e7.pngegg.com/pngimages/874/257/png-clipart-whatsapp-computer-icons-computer-software-whatsapp-text-logo-thumbnail.png" width="48px" height="48px">
 </a>
 <p align="left" >
-Tenho 43 anos, fui Gerente Operacional Bancário durante 20 anos.
+  Após uma experiência profissional atuando como gerente operacional, estou em transição de carreira. Hoje faço o curso de Desenvolvedor Fullstack na Cubos Academy e estou no 2º periodo na faculdade de sistema de computação.
+Sempre gostei de trabalhar em equipe, descobrir novas formas de resolver problemas, compartilhar erros e acertos e isso é o ponto principal para a manutenção do meu aprendizado.
+Busco oportunidades de estágio ou como desenvolvedor júnior e tenho especial interesse em empresas que valorizam a formação continuada do profissional e buscam construir ambientes inclusivos e diversos.
+Atualmente estou em busca de vagas no Front-end em React.
+
   <br/>
 Sou estudante de tecnologia desde 2020, atualmente estou me capacitando pela @Cubos.academy<br/>
 para me tornar um <b>Desenvolvedor Full-Stack </b> e cursando o 2º periodo de Tecnologia em Sistema de Computação na UFF.
