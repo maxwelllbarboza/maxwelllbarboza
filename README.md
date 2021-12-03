@@ -1,19 +1,12 @@
 <hr />
-<a href="https://github.com/maxwell1102" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a><br />
 <p align="left" > 
   <b> Olá...</b>
 </p>
-<a href="https://www.instagram.com/maxwell_r_barboza/" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a><br />
+
 <p align="left" >
 Me chamo <b> Maxwell Ribeiro Barboza</b>.
 </p>
-<a href="https://api.whatsapp.com/send?phone=5521965170368" target="_blank">
-  <img align="right" src="https://e7.pngegg.com/pngimages/874/257/png-clipart-whatsapp-computer-icons-computer-software-whatsapp-text-logo-thumbnail.png" width="48px" height="48px">
-</a>
+
 <p align="left" >
   Após uma experiência profissional atuando como gerente operacional, estou <br>
   em transição de carreira. Hoje faço o curso de Desenvolvedor Fullstack na <br>
@@ -26,10 +19,19 @@ Me chamo <b> Maxwell Ribeiro Barboza</b>.
   inclusivos e diversos.<br>
   Atualmente estou em busca de vagas no Front-end em React.
 </p>
+
+
+<a href="https://api.whatsapp.com/send?phone=5521965170368" target="_blank">
+  <img align="right" src="https://e7.pngegg.com/pngimages/874/257/png-clipart-whatsapp-computer-icons-computer-software-whatsapp-text-logo-thumbnail.png" width="48px" height="48px">
+</a>
 <a href="https://www.linkedin.com/in/maxwell-ribeiro-barboza-2677351a5/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 <br/>
+<a href="https://github.com/maxwell1102" target="_blank">
+  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a><br />
+
 
 <p align="left" >
 
