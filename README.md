@@ -19,10 +19,6 @@ Me chamo <b> Maxwell Ribeiro Barboza</b>.
 Sempre gostei de trabalhar em equipe, descobrir novas formas de resolver problemas, compartilhar erros e acertos e isso é o ponto principal para a manutenção do meu aprendizado.
 Busco oportunidades de estágio ou como desenvolvedor júnior e tenho especial interesse em empresas que valorizam a formação continuada do profissional e buscam construir ambientes inclusivos e diversos.
 Atualmente estou em busca de vagas no Front-end em React.
-
-  <br/>
-Sou estudante de tecnologia desde 2020, atualmente estou me capacitando pela @Cubos.academy<br/>
-para me tornar um <b>Desenvolvedor Full-Stack </b> e cursando o 2º periodo de Tecnologia em Sistema de Computação na UFF.
 </p>
 <a href="https://www.linkedin.com/in/maxwell-ribeiro-barboza-2677351a5/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
