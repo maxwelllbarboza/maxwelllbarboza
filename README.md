@@ -8,15 +8,12 @@ Me chamo <b> Maxwell Ribeiro Barboza</b>.
 </p>
 
 <p align="left" >
-  Após uma experiência profissional atuando como gerente operacional, estou <br>
-  em transição de carreira. Hoje faço o curso de Desenvolvedor Fullstack na <br>
-  Cubos Academy e estou no 2º periodo na faculdade de sistema de computação.<br>
-  Sempre gostei de trabalhar em equipe, descobrir novas formas de resolver <br>
-  problemas, compartilhar erros e acertos e isso é o ponto principal para a <br>
-  manutenção do meu aprendizado. Busco oportunidades de estágio ou como<br>
-  desenvolvedor júnior e tenho especial interesse em empresas que valorizam<br>
-  a formação continuada do profissional e buscam construir ambientes<br>
-  inclusivos e diversos.<br>
+  Após uma experiência profissional atuando como gerente operacional, estou em transição de carreira.
+  Hoje faço o curso de Desenvolvedor Fullstack na Cubos Academy e estou no 2º periodo na faculdade 
+  de sistema de computação. Sempre gostei de trabalhar em equipe, descobrir novas formas de resolver 
+  problemas, compartilhar erros e acertos e isso é o ponto principal para a manutenção do meu aprendizado.
+  Busco oportunidades de estágio ou como desenvolvedor júnior e tenho especial interesse em empresas que valorizam
+  a formação continuada do profissional e buscam construir ambientes inclusivos e diversos.<br>
   Atualmente estou em busca de vagas no Front-end em React.
 </p>
 
