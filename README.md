@@ -35,7 +35,7 @@ Me chamo <b> Maxwell Ribeiro Barboza</b>.
 
 - 👩‍💻 Estou estudando Front-end e Back-end com **PostgreSQL**, **HTML**, **CSS**, **React**, **Javascript** utilizando o **Node.js**;-       
 - 📫 Se quiser pode enviar um email para maxwellbarboza@hotmail.com.
-- 📝 Veja meu <a href="https://drive.google.com/file/d/1JUpY2qUKWvgs53Y2XEd256ZiOuhXywxd/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
+- 📝 Veja meu <a href="https://drive.google.com/file/d/1uEjwOSuIrWgMYTJSJLh9uGlHpzr3LXLl/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 <br/>
 <div>
   <a href="https://github.com/maxwelllbarboza">
