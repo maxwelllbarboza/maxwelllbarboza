@@ -57,3 +57,6 @@ Me chamo <b> Maxwell Ribeiro Barboza</b>.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
 
 </p>
+  
+<p align="center"> texto que você quiser </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
