@@ -9,7 +9,7 @@ Me chamo <b> Maxwell Ribeiro Barboza</b>.
 
 <p align="left" >
   Após uma experiência profissional atuando como gerente operacional, estou em transição de carreira.
-  Sou formado no curso de Desenvolvedor Fullstack na Cubos Academy e estou no 2º periodo na faculdade 
+  Sou formado no curso de Desenvolvedor Fullstack na Cubos Academy e estou no 4º periodo na faculdade 
   de sistema de computação. Sempre gostei de trabalhar em equipe, descobrir novas formas de resolver 
   problemas, compartilhar erros e acertos e isso é o ponto principal para a manutenção do meu aprendizado.
   Busco oportunidades de estágio ou como desenvolvedor júnior e tenho especial interesse em empresas que valorizam
@@ -59,4 +59,4 @@ Me chamo <b> Maxwell Ribeiro Barboza</b>.
 </p>
   
 <p align="center"> texto que você quiser </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/SeuPerfildoGitHub/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/maxwelllbarboza/count.svg" /></p>
