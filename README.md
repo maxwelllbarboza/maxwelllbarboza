@@ -1,6 +1,7 @@
 <hr />
 <p align="left" > 
   <b> Olá...</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </p>
 
 <p align="left" >
@@ -19,9 +20,12 @@ Me chamo <b> Maxwell Ribeiro Barboza</b>.
 <br/>
 <hr />
 
-**Meus interesses pessoais:**
-- 🎮 
-- 👩‍💻 Estou estudando Front-end e Back-end com **PostgreSQL**, **HTML**, **CSS**, **React**, **Javascript** utilizando o **Node.js**;-       
+**Sobre mim:**
+
+- :mortar_board: Estudante de Tecnologia de Sistemas de Computação <a href = "https://pt.wikipedia.org/wiki/Universidade_Federal_Fluminense">Universidade Federal Fluminense</a>.
+- :computer: Formado como Desenvolvedor Full Stack pela  <a href="https://cubos.academy"> Cubos Academy's</a>. 
+- :bowing_man: In daily evolution. In search of new experiences and knowledge dissemination!
+- :zap: Fun fact: I usually decorate technical specifications of vehicles.     
 - 📫 Se quiser pode enviar um email para maxwellbarboza@hotmail.com.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/11N_aIQkGU0wmfYb1K4gW9g6xTGs2vdsp/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 <br/>
@@ -32,19 +36,34 @@ Me chamo <b> Maxwell Ribeiro Barboza</b>.
 </div>
 
 
-**Linguagens e ferramentas:** 
-<p align="left"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40" />
+### 💻  Tecnologias & ferramentas
+<p align="center">
+
+  <a>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <p align="center">
+  <a>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  </a>  
+   <a>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  </a>
 
 </p>
   
 <p align="center">Visitas</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/maxwelllbarboza/count.svg" /></p>
+
