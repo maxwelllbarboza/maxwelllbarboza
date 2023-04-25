@@ -29,8 +29,8 @@ Me chamo <b> Maxwell Ribeiro Barboza</b>.
 <br/>
 <div>
   <a href="https://github.com/maxwelllbarboza">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=maxwelllbarboza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwelllbarboza&layout=compact&langs_count=16&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=maxwelllbarboza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwelllbarboza&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
