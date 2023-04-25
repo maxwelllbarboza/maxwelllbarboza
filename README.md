@@ -58,5 +58,5 @@ Me chamo <b> Maxwell Ribeiro Barboza</b>.
 
 </p>
   
-<p align="center"> texto que você quiser </p>
+<p align="center">Visitas</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/maxwelllbarboza/count.svg" /></p>
