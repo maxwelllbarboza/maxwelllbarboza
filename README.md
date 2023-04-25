@@ -23,9 +23,7 @@ Me chamo <b> Maxwell Ribeiro Barboza</b>.
 **Sobre mim:**
 
 - :mortar_board: Estudante de Tecnologia de Sistemas de Computação <a href = "https://pt.wikipedia.org/wiki/Universidade_Federal_Fluminense">Universidade Federal Fluminense</a>.
-- :computer: Formado como Desenvolvedor Full Stack pela  <a href="https://cubos.academy"> Cubos Academy's</a>. 
-- :bowing_man: In daily evolution. In search of new experiences and knowledge dissemination!
-- :zap: Fun fact: I usually decorate technical specifications of vehicles.     
+- :computer: Formado como Desenvolvedor Full Stack pela  <a href="https://cubos.academy"> Cubos Academy's</a>.    
 - 📫 Se quiser pode enviar um email para maxwellbarboza@hotmail.com.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/11N_aIQkGU0wmfYb1K4gW9g6xTGs2vdsp/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
 <br/>
