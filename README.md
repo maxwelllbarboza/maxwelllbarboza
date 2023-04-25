@@ -7,17 +7,6 @@
 Me chamo <b> Maxwell Ribeiro Barboza</b>.
 </p>
 
-<p align="left" >
-  Após uma experiência profissional atuando como gerente operacional, estou em transição de carreira.
-  Sou formado no curso de Desenvolvedor Fullstack na Cubos Academy e estou no 4º periodo na faculdade 
-  de sistema de computação. Sempre gostei de trabalhar em equipe, descobrir novas formas de resolver 
-  problemas, compartilhar erros e acertos e isso é o ponto principal para a manutenção do meu aprendizado.
-  Busco oportunidades de estágio ou como desenvolvedor júnior e tenho especial interesse em empresas que valorizam
-  a formação continuada do profissional e buscam construir ambientes inclusivos e diversos.<br>
-  Atualmente estou em busca de vagas no Front-end em React.
-</p>
-
-
 <a href="https://api.whatsapp.com/send?phone=5521965170368" target="_blank">
   <img align="right" src="https://e7.pngegg.com/pngimages/874/257/png-clipart-whatsapp-computer-icons-computer-software-whatsapp-text-logo-thumbnail.png" width="48px"      height="48px">
 </a>
@@ -31,8 +20,7 @@ Me chamo <b> Maxwell Ribeiro Barboza</b>.
 <hr />
 
 **Meus interesses pessoais:**
-
-
+- 🎮 
 - 👩‍💻 Estou estudando Front-end e Back-end com **PostgreSQL**, **HTML**, **CSS**, **React**, **Javascript** utilizando o **Node.js**;-       
 - 📫 Se quiser pode enviar um email para maxwellbarboza@hotmail.com.
 - 📝 Veja meu <a href="https://drive.google.com/file/d/11N_aIQkGU0wmfYb1K4gW9g6xTGs2vdsp/view?usp=sharing" target="_blank">Currículo</a> para mais informações.
